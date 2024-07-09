@@ -1,0 +1,70 @@
+[
+  {
+    "_id": "65f8141d919d86944918b14f",
+    "name": "home",
+    "type": "folder",
+    "children": [
+      {
+        "name": "단국대학교 천안 캠퍼스",
+        "type": "file",
+        "children": [],
+        "_id": "666c4d48e7b9d390c11c2992"
+      },
+      {
+        "name": "Example",
+        "type": "file",
+        "children": [],
+        "_id": "667facfd4cba66cf5b8b71bf"
+      },
+      {
+        "name": "Example2",
+        "type": "file",
+        "children": [],
+        "_id": "667fad124cba66cf5b8b71e2"
+      },
+      {
+        "name": "Example3",
+        "type": "file",
+        "children": [],
+        "_id": "667fad284cba66cf5b8b71fc"
+      },
+      {
+        "name": "Example 4",
+        "type": "file",
+        "children": [],
+        "_id": "667fad914cba66cf5b8b7220"
+      },
+      {
+        "name": "Example 5",
+        "type": "file",
+        "children": [],
+        "_id": "667fada24cba66cf5b8b723c"
+      },
+      {
+        "name": "test",
+        "type": "file",
+        "children": [],
+        "_id": "667faf224cba66cf5b8b7276"
+      },
+      {
+        "name": "antther test",
+        "type": "file",
+        "children": [],
+        "_id": "667faf6b4cba66cf5b8b7298"
+      },
+      {
+        "name": "Default Folder",
+        "type": "folder",
+        "_id": "667fafea4cba66cf5b8b72ce",
+        "children": [
+          {
+            "name": "example",
+            "type": "file",
+            "children": [],
+            "_id": "667faff14cba66cf5b8b72d8"
+          }
+        ]
+      }
+    ]
+  }
+]
