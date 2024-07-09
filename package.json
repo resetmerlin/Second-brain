@@ -11,7 +11,8 @@
   },
   "dependencies": {
     "3d-force-graph": "^1.73.3",
-    "polished": "^4.3.1"
+    "polished": "^4.3.1",
+    "scriptmind-second-brain": "^1.0.0"
   },
   "devDependencies": {
     "@parcel/packager-ts": "2.12.0",
