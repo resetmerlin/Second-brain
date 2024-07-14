@@ -10,5 +10,5 @@
     "resolveJsonModule": true,
     "declaration": true
   },
-  "include": ["packages/**/*"]
+  "include": ["packages/**/*", "example/app.js"]
 }
