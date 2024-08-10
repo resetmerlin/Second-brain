@@ -1,10 +1,14 @@
 {
   "name": "scriptmind-second-brain",
   "description": "",
-  "version": "1.0.3",
+  "version": "1.0.6",
   "type": "module",
   "main": "lib/index.js",
   "source": "packages/index.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/resetmerlin/Second-brain"
+  },
   "files": [
     "lib"
   ],
